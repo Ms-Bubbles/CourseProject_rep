@@ -62,9 +62,9 @@ It's small (150 observations), but thorough! What better proof of it's accuracy 
 
 ## Wait no longer!
 
-This Shiny application is available here:
+This Shiny application is now available on github:
 
-For code visit 
+https://github.com/Ms-Bubbles/CourseProject_rep
 
 Enjoy!
 
