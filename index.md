@@ -1,0 +1,71 @@
+---
+title       : Shiny App "Iris Species Prediction"
+subtitle    : Course Project
+author      : M.Krajewska
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+logo        : three-irises.jpg
+---
+
+## Why want to predict species of an iris?
+
+
+
+1. First and foremost, iris is a beautiful flower! 
+2. Interest in irises has remained on a steady level since 2011 based on google searches.[1] 
+No wonder, this flower is not a product of a passing fashion, but a timeless staple of elegance. 
+3. Why not learn more about your iris by discovering the species it belongs to in order to fully understand its charm.
+
+[1]: http://www.google.com/trends/explore#q=%2Fm%2F0jqjp&cmpt=q
+
+---  
+
+<style>
+em {
+  font-style: italic
+}
+
+strong {
+  font-weight: bold;
+}
+
+</style>
+
+## Why use this application?
+
+It is true, there is many applications available offering similar functionality... so what makes this Shiny App so special?
+
+1. It uses **dynamic interface**, which adjusts to your search query making the UX cleaner and simpler.
+2. It's **fast**, almost instant! Result of your prediction will be displayed the moment you choose the right parameters.
+3. Use simple **widgets** as _sliders_ and _select box_ to get your predicition.
+4. UI uses clear text formating styles **bold**, _italic_ and various text types such as help text, markdown...
+5. Browse through **tabs** for additional information: summary of the data set and background information. All in sleek and easily accessible form.
+6. It's all in the details, enjoy a **photo** of an Iris Barbata Elatior in the "About" section, **custom name tab** in your browser _"Iris Species Prediction"_, so you never close the tab by mistake again.
+
+
+
+--- 
+
+## Why use the "iris" data set?
+
+It's small (150 observations), but thorough! What better proof of it's accuracy and adequateness than the plot below!
+
+
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+
+--- 
+
+## Wait no longer!
+
+This Shiny application is available here:
+
+For code visit 
+
+Enjoy!
+
+---
